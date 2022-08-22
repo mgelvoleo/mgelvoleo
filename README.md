@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Gelvoleo</h1>
-<h3 align="center">Im avid for IT, I can work both dev or operation (technical), but currently im passionate right now with devops</h3>
+<h3 align="center">Im avid IT, I can work both dev or operation (technical), but currently im passionate right now with devops</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgelvoleo&label=Profile%20views&color=0e75b6&style=flat" alt="mgelvoleo" /> </p>
 
