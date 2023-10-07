@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgelvoleo&label=Profile%20views&color=0e75b6&style=flat" alt="mgelvoleo" /> </p>
 
-- 🌱 I’m currently learning **Ansible,Kubernetes, Docker, Bash, Python**
-
+- 🌱 I’m currently learning **Ansible,Terraform
 - 📫 How to reach me **mgelvoleo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
